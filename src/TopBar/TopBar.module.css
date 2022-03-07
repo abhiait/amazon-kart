@@ -1,0 +1,16 @@
+.topBar{
+    background-color: #222e3c;
+    width: 100%;
+    /* padding: 24px 48px 12px; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: -webkit-center;
+    z-index: 100;
+  }
+  .topBar>a>img{
+    width: 130px;
+    height: 70px;
+    vertical-align: middle;
+  }
+  
